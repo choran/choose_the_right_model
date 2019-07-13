@@ -1,2 +1,2 @@
-env: tensorflow-1.8
+env: tensorflow-1.14
 machine: cpu
