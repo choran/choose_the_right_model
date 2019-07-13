@@ -1,3 +1,4 @@
 tensorflow-hub==0.1.0
+tf-nightly
 bert-serving-server
 bert-serving-client
